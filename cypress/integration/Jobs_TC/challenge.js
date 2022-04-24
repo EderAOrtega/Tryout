@@ -19,7 +19,7 @@ describe("Tribal challenge",function(){
     const offices = testData.office_select
 
     departments.forEach(dept => {
-        it("Validate all department and office options can be selected",function(){
+        it("Validate all department and office options can be selected: "+dept,function(){
             tcJobs.clickOnElement(selectors.department_container)
             tcJobs.selectOptionFromDropdown(dept)
             tcJobs.validateChosenOpt(dept)
