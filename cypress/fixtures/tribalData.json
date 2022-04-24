@@ -1,0 +1,34 @@
+{
+  "tribalPage":"tribalcredit",
+  "pageTitle":"Jobs at Tribal Credit",
+  "department_select":[
+    "Blockchain",
+    "Credit Success",
+    "Customer Success",
+    "Engineering",
+    "Finance and Accounting",
+    "Legal and Compliance",
+    "Marketing",
+    "Operations",
+    "People Ops and Talent Acquisition",
+    "Product",
+    "Product Marketing",
+    "Sales and Business Development",
+    "You Don't See a Role You're Interested In?",
+    "All Departments"
+  ],
+  "engOpt":"Engineering",
+  "office_select":[
+    "Brazil",
+    "Chile",
+    "Colombia",
+    "Egypt",
+    "Mexico",
+    "Perú",
+    "United Arab Emirates",
+    "United States",
+    "All Offices"
+  ],
+  "mxOpt":"Mexico",
+  "jposition":"Sr. QA Engineer"
+}
